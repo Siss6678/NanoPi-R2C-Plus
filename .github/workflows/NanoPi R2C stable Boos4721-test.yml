@@ -12,7 +12,7 @@ env:
   REPO_URL: https://github.com/Boos4721/openwrt
   REPO_BRANCH: master
   CONFIG_FILE: configs/lean/lean_stable.config
-  DIY_SH: scripts/lean.sh
+  DIY_SH: scripts/boos4721.sh
   IPV6MOD_IN_FIRMWARE: true
   KMODS_IN_FIRMWARE: true
   UPLOAD_WETRANSFER: false
